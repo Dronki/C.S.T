@@ -1,0 +1,59 @@
+/* 
+    Document   : style.css
+    Created on : 2012-feb-21, 14:43:26
+    Author     : Maniac
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body {
+    background-color: #00cccc;
+}
+
+#header {
+    text-align: center;
+    border-radius: 10px 7px;
+    background-color: #FFFFFF;
+    width: auto;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #000000;
+    box-shadow: 0 0 5px 5px #000000;
+}
+
+p {
+    font-family:Georgia;
+    font-size:16;
+    text-align:left;
+    margin-left:auto;
+    margin-right:auto; 
+}
+
+#titel {
+    font-size: 25;
+    font-style: italic;
+    font-weight: 800;
+    padding-bottom: 5px;
+}
+
+#datum {
+    font-size: 20;
+    font-style: italic;
+    font-weight: 800;
+    padding-bottom: 5px;
+}
+
+#article {
+    text-align: center;
+    border-radius: 10px 7px;
+    background-color: #FFFFFF;
+    width: auto;
+    padding: 10px;
+    border: 1px solid #000000;
+    box-shadow: 0 0 5px 5px #000000;
+    margin-bottom: 15px;
+}

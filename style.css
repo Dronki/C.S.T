@@ -1,0 +1,235 @@
+p
+{
+font-family:Georgia;
+font-size:16;
+text-align:left;
+margin-left:auto;
+margin-right:auto;
+}
+
+body
+{
+/*background-color:#2A0A0A;*/
+background-image: url('img/bg.jpg');
+background-repeat: no-repeat;
+background-size: 100%100%;
+background-attachment: fixed;
+}
+
+input {
+    padding-left: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    border-top-left-radius:10px 7px;
+    border-bottom-right-radius:10px 7px;
+    margin: 10px;
+    border: 1px solid #000000;
+    box-shadow: 0 0 5px 5px #000000;
+}
+
+#hidden
+{
+color:#2A0A0A;    
+}
+
+#wrapper
+{
+margin-left: auto;
+margin-right: auto;
+width:900px;
+margin: 0px auto;
+text-align: left;
+}
+
+#meny
+{
+text-align: center;
+font-size:19px;
+border-radius:10px 7px;
+background-color: #FFFFFF;
+margin-left: auto;
+margin-right:auto;
+width:870px;
+padding:10px;
+border: 1px solid #000000;
+box-shadow: 0 0 5px 5px #000000;
+margin-bottom:15px;
+}
+#meny a:hover
+{
+color:#000000;
+text-decoration: none;
+}
+#meny a
+{
+color:#000000;
+text-decoration: none;
+}
+#meny a:visited
+{
+
+}
+
+#dummycontent {
+    text-align:left;
+    border-radius:10px 7px;
+    background-color: #FFFFFF;
+    float:left;
+    width:660px;
+    margin-left:5px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    border: 1px solid #000000;
+    box-shadow: 0 0 5px 5px #000000;
+}
+
+#content
+{
+text-align:left;
+border-radius:10px 7px;
+background-color: #FFFFFF;
+float:left;
+width:660px;
+margin-left:5px;
+padding:10px;
+border: 1px solid #000000;
+box-shadow: 0 0 5px 5px #000000;
+}
+
+#user
+{
+text-align: center;
+border-radius: 10px 7px;
+background-color: #FFFFFF;
+float:right;
+width: 180px;
+padding: 10px;
+border: 1px solid #000000;
+box-shadow: 0 0 5px 5px #000000;
+}
+
+#usr
+{
+font-family:Georgia;
+font-size:14px;
+text-align:left;
+margin-left:auto;
+margin-right:auto;  
+}
+
+#footer
+{
+margin-top:20px;
+font-family:Georgia;
+font-style:italic;
+font-size:14;
+border-radius:10px 7px;
+background-color: #FFFFFF;
+float:left;
+width:875px;
+margin-left: 5px;
+padding:10px;
+border: 1px solid #000000;
+box-shadow: 0 0 5px 5px #000000;
+}
+
+#titel
+{
+font-size: 25;
+font-style: italic;
+font-weight: 800;
+padding-bottom: 5px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#datum
+{
+font-size: 20;
+font-style: italic;
+font-weight: 800;
+padding-bottom: 5px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#err
+{
+text-align:left;
+border-radius:10px 7px;
+background-color: #FFFFFF;
+float:left;
+width:870px;
+margin-left:5px;
+padding:10px;
+border: 1px solid #000000;
+box-shadow: 0 0 5px 5px #000000;
+}
+
+#white
+{
+    color: white;
+}
+
+#white a:hover
+{
+color:#FFFFFF;
+text-decoration: none;
+}
+#white a
+{
+color:#FFFFFF;
+text-decoration: none;
+}
+#white a:visited
+{
+color:#FFFFFF;
+text-decoration: none;
+}
+
+#achbox {
+    width:auto;
+    height: auto;
+    padding:10px;
+    border:1px solid black;
+    margin:10px;
+    border-radius:10px 7px;
+    box-shadow: 0 0 5px 5px #000000;
+}
+
+#achbox img {
+    padding-right: 5px;
+}
+
+#achname {
+    font-size: 16;
+    font-style: bold;
+    font-weight: 800;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#achdesc {
+    font-size: 14;
+    font-style: none;
+    font-weight: 800;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#achminibox {
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius:10px 7px;
+    box-shadow: 0 0 5px 5px #000000; 
+}
+
+#legend table{
+    border-radius:10px 7px;
+    box-shadow: 0 0 5px 5px #000000; 
+}
